@@ -1,0 +1,67 @@
+
+html
+{
+	height: auto;
+	width: auto;
+}
+
+body
+{
+	color: hsla(48, 67%, 10%, 0.65);
+	height: auto;
+	margin: 10px;
+	width: auto;
+	padding: 0;
+
+	background: hsla(206, 25%, 100%, 1);
+	line-height: 1.2em;
+	font-family: Arial, Sans, Verdana;
+	/*font-size: 1.2em;*/
+	font-size: 12px;
+	font-weight: 400;
+}
+
+em
+{
+	color: hsla(0, 80%, 70%, 1);
+}
+
+fieldset
+{
+	background-color: hsla(228, 15%, 90%, 0.95);
+	border: 2px solid hsla(48, 67%, 30%, 0.65);
+	width: 280px;
+	margin-bottom: 10px;
+	border-radius: 12px;
+	box-shadow: 5px 10px 25px hsla(48, 57%, 30%, 0.45);
+}
+
+legend
+{
+	display: none;
+	font-size: 1.2em;
+}
+
+#logo
+{
+	position: relative;
+	left: 50%;
+	margin-left: -250px;
+	margin-top: -65px;
+	background: url('logo.png') no-repeat;
+	background-position: center;
+	background-size: 60%;
+	width: 500px;
+	height: 565px;
+	z-index: -3;
+}
+
+#main
+{
+	position: relative;
+	left: 50%;
+	margin-top: -395px;
+	margin-left: -150px;
+}
+
+

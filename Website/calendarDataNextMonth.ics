@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Studentkåren DISK - ECPv3.9.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Studentkåren DISK
+X-ORIGINAL-URL:http://disk.su.se
+X-WR-CALDESC:Events for Studentkåren DISK
+X-WR-TIMEZONE:Europe/Stockholm
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20151005T180000
+DTEND;VALUE=DATE-TIME:20151005T190000
+DTSTAMP:20150929T161340
+CREATED:20150827T111229
+LAST-MODIFIED:20150827T111229
+UID:650-1444068000-1444071600@http://disk.su.se
+SUMMARY:Floorball
+DESCRIPTION:We will play at Kista brandstation. If you don’t know the way you can meet up with us outside Foo Bar (Borgafjordsgatan 6C\, NOD) half an hour before we start.  We have a handful of floorball sticks at our disposal if you do not have one of your own. Price is 20 SEK for DISK members and 30 SEK for everyone else. We can only accept payment in cash. Please remember to bring your Studentkortet/DISK membership card or other proof of membership (receipt or app Studentkortet) if you are a member of DISK.      Welcome!
+URL:http://disk.su.se/kalender/floorball-4
+LOCATION:Danmarksgatan 50, Kista, 164 40, Sverige
+CATEGORIES:Floorball,Sportsektionen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20150930T173000
+DTEND;VALUE=DATE-TIME:20150930T183000
+DTSTAMP:20150929T161340
+CREATED:20150924T224722
+LAST-MODIFIED:20150924T224722
+UID:754-1443634200-1443637800@http://disk.su.se
+SUMMARY:Badminton
+DESCRIPTION:We have two badminton courts booked for next Wednesday (30/9) between 17:30-18:30. Confirm in the Facebook group before 17:00 on Tuesday (29/9) if you are attending. We will meet up at the NOD entrance at 17:00 or you can come directly to Kista Racketcenter.
+URL:http://disk.su.se/kalender/badminton-17
+CATEGORIES:Badminton,Sportsektionen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20150928T180000
+DTEND;VALUE=DATE-TIME:20150928T190000
+DTSTAMP:20150929T161340
+CREATED:20150827T110825
+LAST-MODIFIED:20150827T110825
+UID:649-1443463200-1443466800@http://disk.su.se
+SUMMARY:Floorball
+DESCRIPTION:We will play at Kista brandstation. If you don’t know the way you can meet up with us outside Foo Bar (Borgafjordsgatan 6C\, NOD) half an hour before we start.  We have a handful of floorball sticks at our disposal if you do not have one of your own. Price is 20 SEK for DISK members and 30 SEK for everyone else. We can only accept payment in cash. Please remember to bring your Studentkortet/DISK membership card or other proof of membership (receipt or app Studentkortet) if you are a member of DISK.      Welcome!
+URL:http://disk.su.se/kalender/floorball-3
+LOCATION:Danmarksgatan 50, Kista, 164 40, Sverige
+CATEGORIES:Floorball,Sportsektionen
+END:VEVENT
+END:VCALENDAR
