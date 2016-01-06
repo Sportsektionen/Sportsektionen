@@ -2,4 +2,5 @@
 !*.pdf
 !*.tex
 !.gitignore
-!*.gpg
+!*.asc
+!*.sig
