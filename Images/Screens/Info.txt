@@ -1,0 +1,11 @@
+Some info for the pictures that might be usefull
+By Cristoffer Lagergren
+
+
+Font used: Copperplate Gothic Bold
+The gold color: #bda752
+
+
+How to make outline in GIMP
+Rightclick on wanted texts layer -> Alfa to Marking -> rightclick on the marking in picture/workspace -> Marking -> Enlarge -> 2px, OK
+Make a new layer and fill with bucket for the wanted colour, order the new layer under the text layer in list
