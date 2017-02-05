@@ -5,6 +5,9 @@ By Cristoffer Lagergren
 Font used: Copperplate Gothic Bold
 The gold color: #bda752
 
+Outline for normal picture: 4 pxl
+		small pic: 2 pxl
+
 
 How to make outline in GIMP
 Rightclick on wanted texts layer -> Alfa to Marking -> rightclick on the marking in picture/workspace -> Marking -> Enlarge -> 2px, OK
